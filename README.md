@@ -15,7 +15,10 @@ I'm an AI Trainer and recent UC Riverside graduate interested in AI safety, LLM 
 
 A full-stack AI assistant designed to help UC Riverside students ask questions about classes, majors, and campus life.
 
-Built with **Node.js, PostgreSQL, JavaScript, and the OpenAI API**.
+<img width="575" height="795" alt="Screenshot 2026-09-02 at 6 09 35 PM" src="https://github.com/user-attachments/assets/971ec5c3-a01e-4872-ab0d-77e014dee884" />
+
+
+**Tech:** Node.js · Express · PostgreSQL · JavaScript · OpenAI API
 
 [Live Demo](https://ucr-ai-advisor.onrender.com) • [Source Code](https://github.com/josersalinas/ucr-ai-advisor)
 
