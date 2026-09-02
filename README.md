@@ -1,4 +1,4 @@
-# Hi, I'm Jose 👋
+# Hello! I'm Jose 👋
 
 I'm an AI Trainer and recent UC Riverside graduate interested in AI safety, LLM evaluation, model behavior, and building useful AI systems.
 
@@ -9,14 +9,16 @@ I'm an AI Trainer and recent UC Riverside graduate interested in AI safety, LLM 
 - Exploring AI safety, scalable oversight, and reliable model evaluation
 - Continuing to strengthen my skills in Python, AI systems, and empirical AI research
 
-## 🚀 Featured Project
+## 🚀 My Project
 
 ### UCR AI Advisor
 
 A full-stack AI assistant designed to help UC Riverside students ask questions about classes, majors, and campus life.
 
-<img width="575" height="795" alt="Screenshot 2026-09-02 at 6 09 35 PM" src="https://github.com/user-attachments/assets/971ec5c3-a01e-4872-ab0d-77e014dee884" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/57cdb8db-decb-4f0e-af8f-0e4ebc6ffae5" width="50%" alt="UCR AI Advisor home screen">
+  <img src="https://github.com/user-attachments/assets/7208396b-d4b6-47c0-8a11-fe017c588725" width="45%" alt="UCR AI Advisor response example">
+</p>
 
 **Tech:** Node.js · Express · PostgreSQL · JavaScript · OpenAI API
 
