@@ -29,4 +29,4 @@ Built with **Node.js, PostgreSQL, JavaScript, and the OpenAI API**.
 
 ## 🔗 Links
 
-[Portfolio](https://josersalinas.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/josersalinas)
+[My Portfolio](https://josersalinas.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/josersalinas)
