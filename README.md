@@ -1,19 +1,21 @@
 # Hello! I'm Jose 👋
 
-I'm an AI Trainer and recent UC Riverside graduate interested in AI safety, LLM evaluation, model behavior, and building useful AI systems.
+I'm a recent UC Riverside graduate with a background in Business Analytics and an interest in using data, technology, and systems thinking to solve real-world business and operational problems.
 
 ## 🧠 What I'm Working On
 
-- Evaluating AI-generated responses and providing evidence-based feedback on model behavior
-- Building full-stack applications that integrate large language models
-- Exploring AI safety, scalable oversight, and reliable model evaluation
-- Continuing to strengthen my skills in Python, AI systems, and empirical AI research
+- Evaluating AI-generated outputs and identifying recurring quality issues, patterns, and failure modes
+- Building full-stack applications that connect user inputs, backend logic, APIs, and structured data
+- Exploring how data and technology can improve workflows, decision-making, and operational efficiency
+- Continuing to strengthen my skills in SQL, Python, analytics, process improvement, and technical problem-solving
 
-## 🚀 My Project
+## 🚀 Featured Project
 
 ### UCR AI Advisor
 
-A full-stack AI assistant designed to help UC Riverside students ask questions about classes, majors, and campus life.
+A full-stack application designed to help UC Riverside students ask questions about classes, majors, and campus life.
+
+The project combines a web interface, backend application logic, API integration, and a PostgreSQL database to manage user questions, generated responses, and stored records.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/57cdb8db-decb-4f0e-af8f-0e4ebc6ffae5" width="50%" alt="UCR AI Advisor home screen">
@@ -26,11 +28,11 @@ A full-stack AI assistant designed to help UC Riverside students ask questions a
 
 ## 🛠️ Technologies
 
-**Python · JavaScript · SQL · Node.js · PostgreSQL · OpenAI API**
+**SQL · Python · JavaScript · Node.js · PostgreSQL · REST APIs · Tableau · Excel**
 
-## 🔬 Interests
+## 🔎 Interests
 
-**AI Safety & Alignment · LLM Evaluation · Model Behavior · Scalable Oversight · Applied AI**
+**Business Analytics · Operations · Process Improvement · Data Quality · Systems Thinking · Applied AI**
 
 ## 🔗 Links
 
